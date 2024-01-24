@@ -1,0 +1,1 @@
+const r=(e,t)=>localStorage.getItem("country_code")==="91"?t===!0?`₹ ${Number(e).toFixed(0)}`:`₹${Number(e).toFixed(0)}`:t===!0?`$ ${Number(e/localStorage.getItem("usdt")).toFixed(2)}`:`$${Number(e/localStorage.getItem("usdt")).toFixed(2)}`;export{r as s};
