@@ -1,1 +1,0 @@
-/* empty css                                               */import{_ as o,g as s,s as a,D as t,m as n}from"./index-565fe5f5.js";const r={props:{isLoading:Boolean},name:"Loader"},c={key:0,class:"loader-div"},d=n("div",{class:"loader"},null,-1),i=[d];function _(l,m,e,p,f,u){return e.isLoading?(s(),a("div",c,i)):t("",!0)}const B=o(r,[["render",_]]);export{B as L};
