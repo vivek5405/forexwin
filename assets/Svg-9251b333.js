@@ -1,0 +1,1 @@
+import{_ as s,g as n,s as a,A as _}from"./index-8cd42024.js";const c={props:{iconname:String,className:String}},t=["innerHTML"];function o(r,i,e,l,d,m){return n(),a("div",{innerHTML:e.iconname,class:_(e.className)},null,10,t)}const u=s(c,[["render",o],["__scopeId","data-v-762346bb"]]);export{u as s};
